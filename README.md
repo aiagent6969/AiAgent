@@ -1,5 +1,5 @@
 # AiAgent
-The best AI Agent ever made
+The best AI agent ever made
 
 :)
 
